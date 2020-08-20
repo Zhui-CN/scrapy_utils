@@ -34,7 +34,7 @@ python setup.py install
         "scrapy_utils.downloadermiddlewares.proxy_adsl.ProxyAdslMiddleware": 201
     }
     ADSL_SCRIPT_PATH = "Adsl拨号脚本路径"
-CHANGE_VALUE_TIME = 切换时间/秒 (defalut=60)
+    CHANGE_VALUE_TIME = 切换时间/秒 (defalut=60)
     ```
     
 
